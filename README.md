@@ -387,4 +387,3 @@ Votes are tracked by `_voterId` (a scoped string combining MongoDB voter + elect
 
 ---
 
-**Made with ❤️ for transparent, secure, and accessible democratic voting.**
